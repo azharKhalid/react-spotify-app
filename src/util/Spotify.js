@@ -1,4 +1,4 @@
-const clientId = "765717dbe63a41119509064119ccd575";
+const clientId = "*******************************";
 const redirectUri = "http://react-spotify-jam.surge.sh";
 
 let accessToken;
